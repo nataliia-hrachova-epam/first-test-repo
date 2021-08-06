@@ -5,4 +5,3 @@ the up-close ruckus of the landscapes
 
 more lines to test git gui
 more lines to test git gui
-___________________________________
